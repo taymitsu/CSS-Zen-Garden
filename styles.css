@@ -1,0 +1,61 @@
+.intro h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.intro h2{
+  font-family: 'Playfair Display', serif;
+}
+
+.summary p{
+  line-height: 34%;
+}
+
+.preamble h3{
+  font-family: 'Playfair Display', serif;
+}
+
+.preamble p{
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 28px;
+  line-height: 1em;
+}
+
+#zen-supporting h3{
+  font-family: 'Playfair Display', serif;
+}
+
+.participation h3{
+  font-family: 'Playfair Display', serif;
+}
+
+#zen-requirements h3{
+  font-family: 'Playfair Display', serif;
+}
+
+.design-selection h3, .design-archives h3, .zen-resources h3{
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+.design-selection li, a{
+  font-family: 'Roboto Flex', sans-serif;
+  color: peru;
+  text-decoration: none;
+  list-style: none;
+}
+
+.design-archives li, a{
+  font-family: 'Roboto Flex', sans-serif;
+  color: peru;
+  text-decoration: none;
+  list-style: none;
+}
+
+.zen-resources li, a{
+  font-family: 'Roboto Flex', sans-serif;
+  color: peru;
+  text-decoration: none;
+  list-style: none;
+}
