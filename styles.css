@@ -1,3 +1,10 @@
+.page-wrapper {
+	margin: 0px auto 0px auto;
+	position: relative;
+	width: 750px;
+	}
+
+
 .intro h1{
   font-family: 'Playfair Display', serif;
   font-size: 38px;
@@ -6,37 +13,65 @@
 
 .intro h2{
   font-family: 'Playfair Display', serif;
+  font-size: 32px;
 }
 
 .summary p{
-  line-height: 34%;
+  font-family: 'Roboto Flex', sans-serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 26px;
 }
 
 .preamble h3{
   font-family: 'Playfair Display', serif;
+  font-size: 32px;
 }
 
 .preamble p{
   font-family: 'Roboto Flex', sans-serif;
-  font-size: 28px;
-  line-height: 1em;
+  font-size: 26px;
+}
+
+.benefits p{
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 26px;
 }
 
 #zen-supporting h3{
   font-family: 'Playfair Display', serif;
+  font-size: 32px;
+}
+
+#zen-supporting p{
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 26px;
 }
 
 .participation h3{
   font-family: 'Playfair Display', serif;
+  font-size: 32px;
+}
+
+.participation p{
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 26px;
 }
 
 #zen-requirements h3{
   font-family: 'Playfair Display', serif;
+  font-size: 32px;
+}
+
+#zen-requirements p{
+  font-family: 'Roboto Flex', sans-serif;
+  font-size: 26px;
 }
 
 .design-selection h3, .design-archives h3, .zen-resources h3{
   font-family: 'Playfair Display', serif;
   font-weight: bold;
+  font-size: 32px;
 }
 
 .design-selection li, a{
@@ -44,6 +79,7 @@
   color: peru;
   text-decoration: none;
   list-style: none;
+  font-size: 26px;
 }
 
 .design-archives li, a{
@@ -51,6 +87,7 @@
   color: peru;
   text-decoration: none;
   list-style: none;
+  font-size: 26px;
 }
 
 .zen-resources li, a{
@@ -58,4 +95,5 @@
   color: peru;
   text-decoration: none;
   list-style: none;
+  font-size: 26px;
 }
