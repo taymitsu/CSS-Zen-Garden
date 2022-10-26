@@ -1,77 +1,81 @@
+body{
+  font-size: 38px;
+}
+
+
 .page-wrapper {
 	margin: 0px auto 0px auto;
 	position: relative;
 	width: 750px;
 	}
 
-
 .intro h1{
   font-family: 'Playfair Display', serif;
-  font-size: 38px;
+  font-size: 2.25rem;
   font-weight: bold;
 }
 
 .intro h2{
   font-family: 'Playfair Display', serif;
-  font-size: 32px;
+  font-size: 2rem;
 }
 
 .summary p{
   font-family: 'Roboto Flex', sans-serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 .preamble h3{
   font-family: 'Playfair Display', serif;
-  font-size: 32px;
+  font-size: 2rem;
 }
 
 .preamble p{
   font-family: 'Roboto Flex', sans-serif;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 .benefits p{
   font-family: 'Roboto Flex', sans-serif;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 #zen-supporting h3{
   font-family: 'Playfair Display', serif;
-  font-size: 32px;
+  font-size: 2rem;
 }
 
 #zen-supporting p{
   font-family: 'Roboto Flex', sans-serif;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 .participation h3{
   font-family: 'Playfair Display', serif;
-  font-size: 32px;
+  font-size: 2rem;
 }
 
 .participation p{
   font-family: 'Roboto Flex', sans-serif;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 #zen-requirements h3{
   font-family: 'Playfair Display', serif;
-  font-size: 32px;
+  font-size: 2rem;
 }
 
 #zen-requirements p{
   font-family: 'Roboto Flex', sans-serif;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 .design-selection h3, .design-archives h3, .zen-resources h3{
   font-family: 'Playfair Display', serif;
   font-weight: bold;
-  font-size: 32px;
+  font-size: 2rem;
 }
 
 .design-selection li, a{
@@ -79,7 +83,7 @@
   color: peru;
   text-decoration: none;
   list-style: none;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 .design-archives li, a{
@@ -87,7 +91,7 @@
   color: peru;
   text-decoration: none;
   list-style: none;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
 
 .zen-resources li, a{
@@ -95,5 +99,11 @@
   color: peru;
   text-decoration: none;
   list-style: none;
-  font-size: 26px;
+  font-size: 1.625rem;
 }
+
+.sidebar {
+	color: lavenderblush;
+	position: absolute;	top: 95px; left: 916px;
+	width: 205px;
+	}
