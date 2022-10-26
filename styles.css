@@ -7,7 +7,7 @@ body{
 	margin: 0px auto 0px auto;
 	position: relative;
 	width: 750px;
-	}
+}
 
 .intro h1{
   font-family: 'Playfair Display', serif;
@@ -102,8 +102,22 @@ body{
   font-size: 1.625rem;
 }
 
+/* ////SIDE BAR RIGHT///// */
 .sidebar {
 	color: lavenderblush;
 	position: absolute;	top: 95px; left: 916px;
 	width: 205px;
-	}
+}
+
+/* ////FOOTER///// */
+
+footer a {
+  display: inline-block;
+  align-items: center;
+  text-decoration: none;
+  background:peru;
+  color: lavenderblush;
+  margin: 0 0.15em;
+  letter-spacing: 0.5em;
+  border-radius: 0.5rem;
+}
